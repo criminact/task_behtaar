@@ -1,0 +1,61 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.noobcode.task_behtaar"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->/home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->/home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml
+10
+11    <!-- INTERNET PERMISSIONS TO FETCH DATA FROM API -->
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->/home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:6:5-66
+12-->/home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:6:22-64
+13
+14    <application
+14-->/home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:8:5-22:19
+15        android:allowBackup="true"
+15-->/home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:9:9-35
+16        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+16-->[androidx.core:core:1.3.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f4920d07e7ea58f883f1ceb22b5b3961/core-1.3.0/AndroidManifest.xml:24:18-86
+17        android:debuggable="true"
+18        android:icon="@mipmap/ic_launcher"
+18-->/home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:10:9-43
+19        android:label="@string/app_name"
+19-->/home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:11:9-41
+20        android:roundIcon="@mipmap/ic_launcher_round"
+20-->/home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:12:9-54
+21        android:supportsRtl="true"
+21-->/home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:13:9-35
+22        android:testOnly="true"
+23        android:theme="@style/AppTheme" >
+23-->/home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:14:9-40
+24        <activity android:name="com.noobcode.task_behtaar.view.activities.MainActivity" >
+24-->/home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:15:9-21:20
+24-->/home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:15:19-63
+25            <intent-filter>
+25-->/home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:16:13-20:29
+26                <action android:name="android.intent.action.MAIN" />
+26-->/home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:17:17-69
+26-->/home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:17:25-66
+27
+28                <category android:name="android.intent.category.LAUNCHER" />
+28-->/home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:19:17-77
+28-->/home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:19:27-74
+29            </intent-filter>
+30        </activity>
+31
+32        <service
+32-->[androidx.room:room-runtime:2.2.5] /home/xriminact/.gradle/caches/transforms-2/files-2.1/00eb16f5a82f14a4a404be2fb663b1c7/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+33            android:name="androidx.room.MultiInstanceInvalidationService"
+33-->[androidx.room:room-runtime:2.2.5] /home/xriminact/.gradle/caches/transforms-2/files-2.1/00eb16f5a82f14a4a404be2fb663b1c7/room-runtime-2.2.5/AndroidManifest.xml:26:13-74
+34            android:directBootAware="true"
+34-->[androidx.room:room-runtime:2.2.5] /home/xriminact/.gradle/caches/transforms-2/files-2.1/00eb16f5a82f14a4a404be2fb663b1c7/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+35            android:exported="false" />
+35-->[androidx.room:room-runtime:2.2.5] /home/xriminact/.gradle/caches/transforms-2/files-2.1/00eb16f5a82f14a4a404be2fb663b1c7/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+36    </application>
+37
+38</manifest>

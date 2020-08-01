@@ -1,0 +1,23 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <!-- Not so important text style -->
+    <style name="unimportant_text_style">
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:textSize">14dp</item>
+        <item name="android:textStyle">normal</item>
+    </style>
+
+    <!-- Important text style -->
+    <style name="important_text_style">
+        <item name="android:textColor">@color/colorPrimary</item>
+        <item name="android:textSize">16dp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+</resources>

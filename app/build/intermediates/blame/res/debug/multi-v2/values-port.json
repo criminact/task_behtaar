@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/xriminact/Downloads/projjects/Task_Behtaar/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/home/xriminact/.gradle/caches/transforms-2/files-2.1/49bf56a88df5e3fc5446d83d028fd050/appcompat-1.1.0/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

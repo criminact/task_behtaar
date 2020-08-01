@@ -1,0 +1,239 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [androidx.databinding:databinding-adapters:3.5.4] /home/xriminact/.gradle/caches/transforms-2/files-2.1/1756e4bac68720aa542a59c12873e6cb/databinding-adapters-3.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:3.5.4] /home/xriminact/.gradle/caches/transforms-2/files-2.1/15333ba7bc059838b1075f0fc71c0956/databinding-runtime-3.5.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/85986bf43619379213513bc976b95bd2/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/e8c73bc808383f89b6f56a94f29bc9c3/navigation-fragment-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.3.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/cf39ad49adbfde76a89ae3b70ccb2cd2/navigation-ui-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f993fa810f904fff57b963ccb92854b1/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/49bf56a88df5e3fc5446d83d028fd050/appcompat-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.4] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f4390ed24d5b902c1d1b21f81f102807/fragment-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/ca71b0f1f32816da1dd49c5d4a9469f9/navigation-runtime-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/02b2a7050e6f49ccb6e86554ed201266/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f953576d6bb994610f7b5f003c2c08fa/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/958591baa394887d59f531ad157f9403/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/0301f320ea6d74e9fdbe0cbda87c862b/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.1.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/7764db098878324c9e92fa70d2968876/activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/60a8e8fe7f7477970c6957b61a7dc0ac/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/c1ca078fdb95317820f71e4efa389541/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/ca413d90bac86fa075bac8db7efb0c49/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.room:room-runtime:2.2.5] /home/xriminact/.gradle/caches/transforms-2/files-2.1/00eb16f5a82f14a4a404be2fb663b1c7/room-runtime-2.2.5/AndroidManifest.xml:17:1-31:12
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /home/xriminact/.gradle/caches/transforms-2/files-2.1/d2c0ce1190dd3590eca957ea4339f7f3/rxandroid-2.1.1/AndroidManifest.xml:15:1-20:12
+MERGED from [androidx.multidex:multidex:2.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/8db1b66e66d088f88d4d59978e03eef8/multidex-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.jakewharton:butterknife:10.2.1] /home/xriminact/.gradle/caches/transforms-2/files-2.1/9e27c4acc77962371a5a8328de2183a9/butterknife-10.2.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f2622b8f4e9c66b6fffec2533f85cfaf/constraintlayout-1.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.transition:transition:1.3.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/4957445cbb581520c59f63f718b6c463/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/590a09fa7b02b7a631fc05dad1a203b8/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/bec8c764e7caaf36b3db771c40b5755b/drawerlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/23cfca1d495a1ce52883e482153edc4f/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/a9b0ad7f269508ef4e5bd59af1819184/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/bd2077a196dbc69d20158f652ebb736c/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/be44b54b486456d740537b75014c16cb/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.jakewharton:butterknife-runtime:10.2.1] /home/xriminact/.gradle/caches/transforms-2/files-2.1/24e033743e38a8c34f0e1453e5b037ee/butterknife-runtime-10.2.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/eb72df31530aaf87a46156aa27a7ed5f/appcompat-resources-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/fa97e4b4add0cfd15b252c49415c02ff/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/b75f68dcd45a3d1ad36de7ab0267d730/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.3.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/c5649204f051be81c652f025311b47c9/navigation-common-2.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/fae63da4b0172cb4f2b8c937330ca355/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/0390b4de7264eb26d2b70b21d5d86cf8/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f4920d07e7ea58f883f1ceb22b5b3961/core-1.3.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/6521dcdea433a3506f0addf7d8ec5857/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f10cf68ae5932a12cc85cefd3bc12f7f/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/3e63578ec6b1d5db356104430f043316/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/bacb01cbaa0fcae573c442510b6b960f/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/938d5fd92c888c4dc9e381a87e2294ac/savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/xriminact/.gradle/caches/transforms-2/files-2.1/3088d035d7d2a3ce2bcd0a9f69874d51/sqlite-framework-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/xriminact/.gradle/caches/transforms-2/files-2.1/2e1e07f4782b0103f1b328102fc3b353/sqlite-2.0.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/6e1f0e66dd1147ba1aa371904a2bd1ed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/d06296f48ddc09d8d3389c4916fbb4e1/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/20d0ac0d51cd0d3a501b29bcb30133d8/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/a4d11de33f41c0295cc83489f0f3d4c7/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/ebe5980b86a81857ba720860d2994415/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/31a4a76ed490c099e3d5c479e0484268/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml
+		INJECTED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml
+		ADDED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml
+		ADDED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:6:5-66
+	android:name
+		ADDED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:8:5-22:19
+MERGED from [com.google.android.material:material:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f993fa810f904fff57b963ccb92854b1/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f993fa810f904fff57b963ccb92854b1/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.room:room-runtime:2.2.5] /home/xriminact/.gradle/caches/transforms-2/files-2.1/00eb16f5a82f14a4a404be2fb663b1c7/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.room:room-runtime:2.2.5] /home/xriminact/.gradle/caches/transforms-2/files-2.1/00eb16f5a82f14a4a404be2fb663b1c7/room-runtime-2.2.5/AndroidManifest.xml:24:5-29:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f2622b8f4e9c66b6fffec2533f85cfaf/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f2622b8f4e9c66b6fffec2533f85cfaf/constraintlayout-1.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.core:core:1.3.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f4920d07e7ea58f883f1ceb22b5b3961/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f4920d07e7ea58f883f1ceb22b5b3961/core-1.3.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f10cf68ae5932a12cc85cefd3bc12f7f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f10cf68ae5932a12cc85cefd3bc12f7f/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f4920d07e7ea58f883f1ceb22b5b3961/core-1.3.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:14:9-40
+activity#com.noobcode.task_behtaar.view.activities.MainActivity
+ADDED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:15:19-63
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml:19:27-74
+uses-sdk
+INJECTED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml
+INJECTED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:3.5.4] /home/xriminact/.gradle/caches/transforms-2/files-2.1/1756e4bac68720aa542a59c12873e6cb/databinding-adapters-3.5.4/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:3.5.4] /home/xriminact/.gradle/caches/transforms-2/files-2.1/1756e4bac68720aa542a59c12873e6cb/databinding-adapters-3.5.4/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.5.4] /home/xriminact/.gradle/caches/transforms-2/files-2.1/15333ba7bc059838b1075f0fc71c0956/databinding-runtime-3.5.4/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:3.5.4] /home/xriminact/.gradle/caches/transforms-2/files-2.1/15333ba7bc059838b1075f0fc71c0956/databinding-runtime-3.5.4/AndroidManifest.xml:22:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/85986bf43619379213513bc976b95bd2/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/85986bf43619379213513bc976b95bd2/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/e8c73bc808383f89b6f56a94f29bc9c3/navigation-fragment-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/e8c73bc808383f89b6f56a94f29bc9c3/navigation-fragment-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/cf39ad49adbfde76a89ae3b70ccb2cd2/navigation-ui-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/cf39ad49adbfde76a89ae3b70ccb2cd2/navigation-ui-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f993fa810f904fff57b963ccb92854b1/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f993fa810f904fff57b963ccb92854b1/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/49bf56a88df5e3fc5446d83d028fd050/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/49bf56a88df5e3fc5446d83d028fd050/appcompat-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f4390ed24d5b902c1d1b21f81f102807/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.4] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f4390ed24d5b902c1d1b21f81f102807/fragment-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/ca71b0f1f32816da1dd49c5d4a9469f9/navigation-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/ca71b0f1f32816da1dd49c5d4a9469f9/navigation-runtime-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/02b2a7050e6f49ccb6e86554ed201266/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/02b2a7050e6f49ccb6e86554ed201266/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f953576d6bb994610f7b5f003c2c08fa/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f953576d6bb994610f7b5f003c2c08fa/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/958591baa394887d59f531ad157f9403/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/958591baa394887d59f531ad157f9403/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/0301f320ea6d74e9fdbe0cbda87c862b/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/0301f320ea6d74e9fdbe0cbda87c862b/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.1.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/7764db098878324c9e92fa70d2968876/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/7764db098878324c9e92fa70d2968876/activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/60a8e8fe7f7477970c6957b61a7dc0ac/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/60a8e8fe7f7477970c6957b61a7dc0ac/lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/c1ca078fdb95317820f71e4efa389541/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/c1ca078fdb95317820f71e4efa389541/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/ca413d90bac86fa075bac8db7efb0c49/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/ca413d90bac86fa075bac8db7efb0c49/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] /home/xriminact/.gradle/caches/transforms-2/files-2.1/00eb16f5a82f14a4a404be2fb663b1c7/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.room:room-runtime:2.2.5] /home/xriminact/.gradle/caches/transforms-2/files-2.1/00eb16f5a82f14a4a404be2fb663b1c7/room-runtime-2.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /home/xriminact/.gradle/caches/transforms-2/files-2.1/d2c0ce1190dd3590eca957ea4339f7f3/rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [io.reactivex.rxjava2:rxandroid:2.1.1] /home/xriminact/.gradle/caches/transforms-2/files-2.1/d2c0ce1190dd3590eca957ea4339f7f3/rxandroid-2.1.1/AndroidManifest.xml:18:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/8db1b66e66d088f88d4d59978e03eef8/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/8db1b66e66d088f88d4d59978e03eef8/multidex-2.0.0/AndroidManifest.xml:20:5-43
+MERGED from [com.jakewharton:butterknife:10.2.1] /home/xriminact/.gradle/caches/transforms-2/files-2.1/9e27c4acc77962371a5a8328de2183a9/butterknife-10.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife:10.2.1] /home/xriminact/.gradle/caches/transforms-2/files-2.1/9e27c4acc77962371a5a8328de2183a9/butterknife-10.2.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f2622b8f4e9c66b6fffec2533f85cfaf/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f2622b8f4e9c66b6fffec2533f85cfaf/constraintlayout-1.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.transition:transition:1.3.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/4957445cbb581520c59f63f718b6c463/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/4957445cbb581520c59f63f718b6c463/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/590a09fa7b02b7a631fc05dad1a203b8/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/590a09fa7b02b7a631fc05dad1a203b8/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/bec8c764e7caaf36b3db771c40b5755b/drawerlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/bec8c764e7caaf36b3db771c40b5755b/drawerlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/23cfca1d495a1ce52883e482153edc4f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/23cfca1d495a1ce52883e482153edc4f/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/a9b0ad7f269508ef4e5bd59af1819184/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/a9b0ad7f269508ef4e5bd59af1819184/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/bd2077a196dbc69d20158f652ebb736c/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/bd2077a196dbc69d20158f652ebb736c/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/be44b54b486456d740537b75014c16cb/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/be44b54b486456d740537b75014c16cb/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.jakewharton:butterknife-runtime:10.2.1] /home/xriminact/.gradle/caches/transforms-2/files-2.1/24e033743e38a8c34f0e1453e5b037ee/butterknife-runtime-10.2.1/AndroidManifest.xml:5:5-44
+MERGED from [com.jakewharton:butterknife-runtime:10.2.1] /home/xriminact/.gradle/caches/transforms-2/files-2.1/24e033743e38a8c34f0e1453e5b037ee/butterknife-runtime-10.2.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/eb72df31530aaf87a46156aa27a7ed5f/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/eb72df31530aaf87a46156aa27a7ed5f/appcompat-resources-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/fa97e4b4add0cfd15b252c49415c02ff/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/fa97e4b4add0cfd15b252c49415c02ff/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/b75f68dcd45a3d1ad36de7ab0267d730/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/b75f68dcd45a3d1ad36de7ab0267d730/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.3.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/c5649204f051be81c652f025311b47c9/navigation-common-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/c5649204f051be81c652f025311b47c9/navigation-common-2.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/fae63da4b0172cb4f2b8c937330ca355/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/fae63da4b0172cb4f2b8c937330ca355/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/0390b4de7264eb26d2b70b21d5d86cf8/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/0390b4de7264eb26d2b70b21d5d86cf8/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f4920d07e7ea58f883f1ceb22b5b3961/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f4920d07e7ea58f883f1ceb22b5b3961/core-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/6521dcdea433a3506f0addf7d8ec5857/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/6521dcdea433a3506f0addf7d8ec5857/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f10cf68ae5932a12cc85cefd3bc12f7f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/f10cf68ae5932a12cc85cefd3bc12f7f/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/3e63578ec6b1d5db356104430f043316/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/3e63578ec6b1d5db356104430f043316/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/bacb01cbaa0fcae573c442510b6b960f/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/bacb01cbaa0fcae573c442510b6b960f/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/938d5fd92c888c4dc9e381a87e2294ac/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/938d5fd92c888c4dc9e381a87e2294ac/savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/xriminact/.gradle/caches/transforms-2/files-2.1/3088d035d7d2a3ce2bcd0a9f69874d51/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite-framework:2.0.1] /home/xriminact/.gradle/caches/transforms-2/files-2.1/3088d035d7d2a3ce2bcd0a9f69874d51/sqlite-framework-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/xriminact/.gradle/caches/transforms-2/files-2.1/2e1e07f4782b0103f1b328102fc3b353/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.sqlite:sqlite:2.0.1] /home/xriminact/.gradle/caches/transforms-2/files-2.1/2e1e07f4782b0103f1b328102fc3b353/sqlite-2.0.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/6e1f0e66dd1147ba1aa371904a2bd1ed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/6e1f0e66dd1147ba1aa371904a2bd1ed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/d06296f48ddc09d8d3389c4916fbb4e1/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/d06296f48ddc09d8d3389c4916fbb4e1/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/20d0ac0d51cd0d3a501b29bcb30133d8/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/20d0ac0d51cd0d3a501b29bcb30133d8/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/a4d11de33f41c0295cc83489f0f3d4c7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/a4d11de33f41c0295cc83489f0f3d4c7/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/ebe5980b86a81857ba720860d2994415/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/ebe5980b86a81857ba720860d2994415/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/31a4a76ed490c099e3d5c479e0484268/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/xriminact/.gradle/caches/transforms-2/files-2.1/31a4a76ed490c099e3d5c479e0484268/cardview-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml
+INJECTED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml
+		ADDED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml
+		INJECTED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml
+		ADDED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml
+		INJECTED from /home/xriminact/Downloads/projjects/Task_Behtaar/app/src/main/AndroidManifest.xml
+service#androidx.room.MultiInstanceInvalidationService
+ADDED from [androidx.room:room-runtime:2.2.5] /home/xriminact/.gradle/caches/transforms-2/files-2.1/00eb16f5a82f14a4a404be2fb663b1c7/room-runtime-2.2.5/AndroidManifest.xml:25:9-28:40
+	android:exported
+		ADDED from [androidx.room:room-runtime:2.2.5] /home/xriminact/.gradle/caches/transforms-2/files-2.1/00eb16f5a82f14a4a404be2fb663b1c7/room-runtime-2.2.5/AndroidManifest.xml:28:13-37
+	android:directBootAware
+		ADDED from [androidx.room:room-runtime:2.2.5] /home/xriminact/.gradle/caches/transforms-2/files-2.1/00eb16f5a82f14a4a404be2fb663b1c7/room-runtime-2.2.5/AndroidManifest.xml:27:13-43
+	android:name
+		ADDED from [androidx.room:room-runtime:2.2.5] /home/xriminact/.gradle/caches/transforms-2/files-2.1/00eb16f5a82f14a4a404be2fb663b1c7/room-runtime-2.2.5/AndroidManifest.xml:26:13-74
